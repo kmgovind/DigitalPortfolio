@@ -1,13 +1,17 @@
 title: Kavin M. Govindarajan # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  <br>
   Park Scholar at North Carolina State University
+  <br><br>
+  <h2>Degrees:</h2>
   <br>
   BS Aerospace Engineering
   <br>
   BS Applied Mathematics
+  <br><br>
+  <h2>About Me:</h2>
   <br>
-  <h>About Me:</h>
   Aerospace Engineering and Applied Mathematics Student at NCSU interested in Space, Robotics, and Autonomous Controls/Optimization
   <br><br>
   <a href="pdf/Kavin_Govindarajan_Resume.pdf" target="_blank">View My Resume</a>
