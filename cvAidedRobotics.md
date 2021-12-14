@@ -1,3 +1,5 @@
+[Return to Home](/index.md)
+
 # Computer-Vision Aided Robotics
 
 **Project description:** For the 2020 FIRST Robotics competiton, my team wanted to develop a mechanism to shoot foam dodgeballs into a target placed over 10 feet above the ground. In order to ensure the robot would be accurate when shooting, we developed a computer-vision system that would autonomously determine the appropriate parameters necessary for the shooter mechanism to shoot the balls into the target.
