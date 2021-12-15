@@ -3,9 +3,6 @@
 ---
 
 ### Robotics/Automation
-<!-- 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 - [Persistent Path Planning](/persistentPlanning.md) -
 An implementation of a persistent path-planning algorithm that served as the initial step for my research work.
@@ -44,9 +41,8 @@ A digital yearbook concept I created with my friends following the onset of the 
 - [COVID-19 Analysis (Duke Datathon)](https://github.com/kmgovind/duke-datathon-2020) - 
 A paper analyzing the economic impact of COVID-19 using data analytics and data visualization techniques. Code and paper submitted as part of the 2020 Duke Datathon.
 
-<!-- TODO: Update Puzzles section -->
-<!-- - [Puzzles](https://github.com/kmgovind) - 
-A collection of solutions to various coding puzzles I have solved including Advent of Code and ACSL. -->
+- [Puzzles](https://github.com/kmgovind/programming-problems) - 
+A collection of solutions to various coding puzzles I have solved including Advent of Code and ACSL.
 
 
 
