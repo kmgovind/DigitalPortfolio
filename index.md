@@ -20,9 +20,8 @@ Simple bluetooth-controlled car built using an arduino and scrap wood for a 10th
 ### CAD/Hardware
 
 <!-- TODO: Update CAD section -->
-
-- [InspireNC CAD Challenge](https://inspirenc.us/inspirenc-cad-challenge) -
-An [online CAD competition](https://inspirenc.us/inspirenc-cad-challenge) I created (modelled on the FIRST Robotics Competition) for students to have an opportunity to develop their CAD skills in a fun/engaging way.
+- <a href="https://inspirenc.us/inspirenc-cad-challenge" target="_blank">InspireNC CAD Challenge</a> -
+An <a href="https://inspirenc.us/inspirenc-cad-challenge" target="_blank">online CAD Competition</a> I created (modelled on the FIRST Robotics Competition) for students to have an opportunity to develop their CAD skills in a fun/engaging way.
 
 
 <!-- - [Robot in 3 Days (2021)](https://github.com/kmgovind) - 
@@ -35,13 +34,15 @@ Robots I designed for various iterations of the F4 CADathon. -->
 
 ### Software/Programming
 
-- [yebo! (Digital Yearbook)](http://yebo.pythonanywhere.com/) - 
-A digital yearbook concept I created with my friends following the onset of the COVID-19 Pandemic. I worked on the backend code for the site. You can check out the code at our [Github](https://github.com/yebo-app).
+- <a href="http://yebo.pythonanywhere.com/" target="_blank">yebo! (Digital Yearbook)</a> - 
+A digital yearbook concept I created with my friends following the onset of the COVID-19 Pandemic. I worked on the backend code for the site. You can check out the code at our <a href="https://github.com/yebo-app" target="_blank">Github</a>.
 
-- [COVID-19 Analysis (Duke Datathon)](https://github.com/kmgovind/duke-datathon-2020) - 
+
+- <a href="https://github.com/kmgovind/duke-datathon-2020" target="_blank">COVID-19 Analysis (Duke Datathon)</a> - 
 A paper analyzing the economic impact of COVID-19 using data analytics and data visualization techniques. Code and paper submitted as part of the 2020 Duke Datathon.
 
-- [Puzzles](https://github.com/kmgovind/programming-problems) - 
+
+- <a href="https://github.com/kmgovind/programming-problems" target="_blank">Puzzles</a> - 
 A collection of solutions to various coding puzzles I have solved including Advent of Code and ACSL.
 
 
