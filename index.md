@@ -34,10 +34,6 @@ Robots I designed for various iterations of the F4 CADathon. -->
 
 ### Software/Programming
 
-- <a href="http://yebo.pythonanywhere.com/" target="_blank">yebo! (Digital Yearbook)</a> - 
-A digital yearbook concept I created with my friends following the onset of the COVID-19 Pandemic. I worked on the backend code for the site. You can check out the code at our <a href="https://github.com/yebo-app" target="_blank">Github</a>.
-
-
 - <a href="https://github.com/kmgovind/duke-datathon-2020" target="_blank">COVID-19 Analysis (Duke Datathon)</a> - 
 A paper analyzing the economic impact of COVID-19 using data analytics and data visualization techniques. Code and paper submitted as part of the 2020 Duke Datathon.
 
