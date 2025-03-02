@@ -1,9 +1,11 @@
 title: Kavin M. Govindarajan # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Aerospace Engineering and Applied Mathematics Student at NCSU interested in Space, Robotics, and Autonomous Controls/Optimization
+  Robotics PhD at University of Michigan interested in Space, Robotics, Controls, and Optimization
   <br><br>
-  I'm also a <a href="https://park.ncsu.edu/" target="_blank">Park Scholar </a> at NCSU
+  I'm an NSF Graduate Research Fellow and a member of the <a href="https://corelab.engin.umich.edu/" target="_blank">DASC Lab</a> and the <a href="https://dasc-lab.github.io/" target="_blank">CORE Lab</a> at UM.
+  <br><br>
+  I was <a href="https://park.ncsu.edu/" target="_blank">Park Scholar </a> at NCSU, where I received a B.S. in Aerospace Engineering and a B.S. in Applied Mathematics.
   <br><br>
   <a href="pdf/Kavin_Govindarajan_Resume.pdf" target="_blank">View My Resume</a>
   <br>
@@ -12,4 +14,4 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.github.com/kmgovind/" target="_blank">View My Github Profile</a>
   
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: G-3NS8Y4LE53 # your Google Analytics tracking ID here
